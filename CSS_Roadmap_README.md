@@ -41,9 +41,9 @@ This roadmap will help you master **CSS (Cascading Style Sheets)** step by step.
 ---
 
 ## 6. Grid Layout
-- [ ] Rows & Columns
-- [ ] `grid-template-rows`, `grid-template-columns`
-- [ ] `gap`, `grid-area`
+- [x] Rows & Columns
+- [x] `grid-template-rows`, `grid-template-columns`
+- [x] `gap`, `grid-area`
 - [ ] Complex layouts with grid
 
 ---
