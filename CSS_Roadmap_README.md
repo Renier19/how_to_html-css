@@ -26,7 +26,7 @@ This roadmap will help you master **CSS (Cascading Style Sheets)** step by step.
 ---
 
 ## 4. Positioning & Display
-- [ ] Block, Inline, Inline-block
+- [x] Block, Inline, Inline-block
 - [ ] Position (`static`, `relative`, `absolute`, `fixed`, `sticky`)
 - [ ] Z-index
 - [ ] Overflow
@@ -34,9 +34,9 @@ This roadmap will help you master **CSS (Cascading Style Sheets)** step by step.
 ---
 
 ## 5. Flexbox
-- [ ] Main axis vs cross axis
-- [ ] Properties: `justify-content`, `align-items`, `flex-wrap`
-- [ ] Building responsive layouts with flexbox
+- [x] Main axis vs cross axis
+- [x] Properties: `justify-content`, `align-items`, `flex-wrap`
+- [x] Building responsive layouts with flexbox
 
 ---
 
