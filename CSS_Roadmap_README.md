@@ -5,9 +5,9 @@ This roadmap will help you master **CSS (Cascading Style Sheets)** step by step.
 ---
 
 ## 1. Basics
-- [ ] What is CSS? Inline, Internal, and External styles
-- [ ] CSS Syntax (selectors, properties, values)
-- [ ] Colors: Names, HEX, RGB, HSL
+- [x] What is CSS? Inline, Internal, and External styles
+- [x] CSS Syntax (selectors, properties, values)
+- [x] Colors: Names, HEX, RGB, HSL
 
 ---
 
