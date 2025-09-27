@@ -19,9 +19,9 @@ This roadmap will help you master **CSS (Cascading Style Sheets)** step by step.
 ---
 
 ## 3. Box Model
-- [ ] Margin, Border, Padding
-- [ ] Width & Height
-- [ ] Backgrounds (colors, images, gradients)
+- [x] Margin, Border, Padding
+- [x] Width & Height
+- [x] Backgrounds (colors, images, gradients)
 
 ---
 
