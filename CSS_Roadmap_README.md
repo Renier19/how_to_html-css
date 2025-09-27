@@ -12,9 +12,9 @@ This roadmap will help you master **CSS (Cascading Style Sheets)** step by step.
 ---
 
 ## 2. Text & Fonts
-- [ ] Font families, sizes, weights
-- [ ] Text alignment, spacing, line height
-- [ ] Google Fonts
+- [x] Font families, sizes, weights
+- [x] Text alignment, spacing, line height
+- [x] Google Fonts
 
 ---
 
